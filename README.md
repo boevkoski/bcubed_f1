@@ -3,7 +3,7 @@
 
 The BCubed measure was originally proposed to evaluate effectiveness of document clustering [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.5848&rep=rep1&type=pdf).
 Its properties were compared to a wide range of other extrinsic clustering evaluation metrics,
-with the [conclusion](https://link.springer.com/content/pdf/10.1007/s10791-008-9066-8.pdf) that BCubed satisfies all the required qualitative properties~\cite{Amigo2009bcubed}.
+with the [conclusion](https://link.springer.com/content/pdf/10.1007/s10791-008-9066-8.pdf) that BCubed satisfies all the required qualitative properties.
 Since data clustering and community detection in networks produce analogous results,
 one can also apply the BCubed measure to evaluate the detected communities.
 
